@@ -30,6 +30,9 @@ h1{
     
 }
 
+#drinks {
+    width 50;
+}
 nav li{
     display: inline-block;
     margin-right: 50px;
